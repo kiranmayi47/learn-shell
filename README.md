@@ -2,5 +2,10 @@
 
 ##i'm learning shell scripting topics
 ## here are the topics to discuss
-## how to create shell scripting file
-1. shell scripting
+1, how to create shell scripting file
+
+2, shell scripting
+
+3.variables
+
+4.inputs
